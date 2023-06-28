@@ -1,0 +1,202 @@
+[{
+  "_id": {
+    "$oid": "63bdb89bc14e6c2974cf1753"
+  },
+  "id": 59,
+  "name": "Bùi Việt Anh",
+  "email": "buivietanh499@gmail.com",
+  "phone": "0703866975",
+  "msg": "",
+  "total": 22800000,
+  "status": 2,
+  "ship": "Hà Nội",
+  "payment": "TM",
+  "isDeleted": false,
+  "created-at": "12-03-2023"
+  "details": [
+    {
+      "price": 360000,
+      "quantity": "10",
+      "item": {
+        "sale1": 10,
+        "__v": 0,
+        "photo": "1672769788934_pizza4.jpg",
+        "salePrice": 36000,
+        "isDeleted": false,
+        "sale": 10,
+        "price": 40000,
+        "description": "Cong You Bing là món ăn đường phố phổ biến ở Trung Quốc và Đài Loan. Loại bánh làm từ bột mì được nướng trong lò cùng với dầu, hành tỏi cùng mỡ lợn tạo thành chiếc bánh có vỏ giòn bên ngoài và nhân tơi xốp bên trong.\r\n\r\nBánh Cong You Bing dẹp và tròn được làm từ bột pha với hành lá tươi cắt nhuyễn và cán bằng tay. Phiên bản gốc của Cong You Bing từ Trung Quốc dày hơn và có phần bột nhão hơn so với phiên bản nhạt và mịn hơn của người dân Đài Loan. Đôi khi Cong You Bing còn được nhồi thêm thịt băm để tăng thêm hương vị cho món bánh.\r\n\r\nChiếc bánh vàng ươm nóng hổi sẽ khiến bạn khó lòng có thể chế ngự được cơn thèm. Và khi thưởng thức chắc chắn bạn sẽ yêu thích món ăn ngay khi vừa nếm qua. Món bánh Cong You Bing ngon nhất khi ăn nóng và thường được chấm với chút nước tương (xì dầu) có thêm tí ớt, cho hương vị thơm ngon, đậm đà.\r\n\r\n",
+        "categoryId": 8,
+        "urlRewriteName": "cong-you-bing",
+        "name": "Cong you bing",
+        "id": 81,
+        "_id": "60799ef9c2c96719708b4763"
+      }
+    },
+    {
+      "price": 960000,
+      "quantity": "20",
+      "item": {
+        "sale1": 20,
+        "__v": 0,
+        "photo": "1672770216253_pizza2.jpg",
+        "salePrice": 48000,
+        "isDeleted": false,
+        "sale": 20,
+        "price": 60000,
+        "description": "Okonomiyaki, Nhật Bản\r\nOkonomiyaki thường được gọi là bánh xèo Nhật Bản. Loại bánh hấp dẫn này là sự kết hợp giữa nguyên liệu bản địa trong kiểu dáng của chiếc pizza cổ điển. Bột được nướng trực tiếp trên bếp, tùy thuộc vào từng vùng và sở thích của người ăn mà có thể cho thêm bất kỳ loại topping nào (như hành tây, thịt heo, bạch tuộc, mực, tôm, rau, phô mai…)\r\n\r\nPhần đế được làm từ những sợi mì đan xen làm từ bột, đường, men, khoai nghiền, bắp cải hoặc trứng. Sự khác biệt tạo nên nét hấp dẫn trong mỗi chiếc Pizza kiểu Nhật là sốt Okonomiyaki và những miếng vụn cá ngừ khô bên trên.",
+        "categoryId": 8,
+        "urlRewriteName": "okonomiyaki",
+        "name": "Okonomiyaki",
+        "id": 84,
+        "_id": "60799f37c2c96719708b4766"
+      }
+    }
+  ],
+  "__v": 0
+}
+,{
+  "_id": {
+    "$oid": "63bdb8e8c14e6c2974cf1754"
+  },
+  "id": 60,
+  "name": "Bùi Việt Anh",
+  "email": "buivietanh399@gmail.com",
+  "phone": "0703866975",
+  "msg": "",
+  "total": 4800000,
+  "status": 2,
+  "ship": "Hà Nội",
+  "payment": "TM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 480000,
+      "quantity": "10",
+      "item": {
+        "sale1": 20,
+        "__v": 0,
+        "photo": "1672770216253_pizza2.jpg",
+        "salePrice": 48000,
+        "isDeleted": false,
+        "sale": 20,
+        "price": 60000,
+        "description": "Okonomiyaki, Nhật Bản\r\nOkonomiyaki thường được gọi là bánh xèo Nhật Bản. Loại bánh hấp dẫn này là sự kết hợp giữa nguyên liệu bản địa trong kiểu dáng của chiếc pizza cổ điển. Bột được nướng trực tiếp trên bếp, tùy thuộc vào từng vùng và sở thích của người ăn mà có thể cho thêm bất kỳ loại topping nào (như hành tây, thịt heo, bạch tuộc, mực, tôm, rau, phô mai…)\r\n\r\nPhần đế được làm từ những sợi mì đan xen làm từ bột, đường, men, khoai nghiền, bắp cải hoặc trứng. Sự khác biệt tạo nên nét hấp dẫn trong mỗi chiếc Pizza kiểu Nhật là sốt Okonomiyaki và những miếng vụn cá ngừ khô bên trên.",
+        "categoryId": 8,
+        "urlRewriteName": "okonomiyaki",
+        "name": "Okonomiyaki",
+        "id": 84,
+        "_id": "60799f37c2c96719708b4766"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bdc025612da24264ad0e0d"
+  },
+  "id": 61,
+  "name": "Bùi Việt Anh",
+  "email": "buivietanh399@gmail.com",
+  "phone": "0703866975",
+  "msg": "",
+  "total": 360,
+  "status": 1,
+  "ship": "Hà Nội",
+  "payment": "TM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 360,
+      "quantity": 1,
+      "item": {
+        "sale1": 10,
+        "__v": 0,
+        "photo": "1672769788934_pizza4.jpg",
+        "salePrice": 36000,
+        "isDeleted": false,
+        "sale": 10,
+        "price": 40000,
+        "description": "Cong You Bing là món ăn đường phố phổ biến ở Trung Quốc và Đài Loan. Loại bánh làm từ bột mì được nướng trong lò cùng với dầu, hành tỏi cùng mỡ lợn tạo thành chiếc bánh có vỏ giòn bên ngoài và nhân tơi xốp bên trong.\r\n\r\nBánh Cong You Bing dẹp và tròn được làm từ bột pha với hành lá tươi cắt nhuyễn và cán bằng tay. Phiên bản gốc của Cong You Bing từ Trung Quốc dày hơn và có phần bột nhão hơn so với phiên bản nhạt và mịn hơn của người dân Đài Loan. Đôi khi Cong You Bing còn được nhồi thêm thịt băm để tăng thêm hương vị cho món bánh.\r\n\r\nChiếc bánh vàng ươm nóng hổi sẽ khiến bạn khó lòng có thể chế ngự được cơn thèm. Và khi thưởng thức chắc chắn bạn sẽ yêu thích món ăn ngay khi vừa nếm qua. Món bánh Cong You Bing ngon nhất khi ăn nóng và thường được chấm với chút nước tương (xì dầu) có thêm tí ớt, cho hương vị thơm ngon, đậm đà.\r\n\r\n",
+        "categoryId": 8,
+        "urlRewriteName": "cong-you-bing",
+        "name": "Cong you bing",
+        "id": 81,
+        "_id": "60799ef9c2c96719708b4763"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d744b0e33a3e39b81e4239"
+  },
+  "id": 62,
+  "name": "Bùi Việt Anh",
+  "email": "anh.bv204709@sis.hust.edu.vn",
+  "phone": "0703866975",
+  "msg": "",
+  "total": 30000,
+  "status": 1,
+  "ship": "Hà Nội",
+  "payment": "TM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 30000,
+      "quantity": 1,
+      "item": {
+        "sale1": 0,
+        "__v": 0,
+        "photo": "1673423308112_pizza10.jpg",
+        "salePrice": 30000,
+        "isDeleted": false,
+        "sale": 0,
+        "price": 30000,
+        "description": "Pizza California hay còn gọi là loại bánh dành cho người sành ăn, được biết đến với các nguyên liệu đặc biệt. Loại bánh có vào cuối năm 1970 khi đầu bếp Ed LaDou tiến hành thử nghiệm công thức tại nhà hàng cổ điển của Ý, Prego. Ông đã làm ra một chiếc bánh Pizza với mù tạt, ricotta, pate và ớt đỏ, một cách tình cờ nó được phục vụ cho Wolfgang Puck. Quá bất ngờ với ý tưởng sáng tạo này, Puck đã mời ông làm đầu bếp tại nhà hàng của mình. Chính tại đây, LaDou đã đưa ra hơn 250 công thức làm bánh độc nhất và thậm chí viết nên thực đơn của chuỗi nhà hàng California Pizza Kitchen.",
+        "categoryId": 8,
+        "urlRewriteName": "pizza-california",
+        "name": "Pizza California",
+        "id": 110,
+        "_id": "6162da4ee8f08f31644b0a14"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63da1556e5d8de4c88870633"
+  },
+  "id": 63,
+  "name": "Bùi Việt Anh",
+  "email": "buivietanh499@gmail.com",
+  "phone": "0703866975",
+  "msg": "",
+  "total": 2670089,
+  "status": 1,
+  "ship": "",
+  "payment": "TM",
+  "isDeleted": false,
+  "details": [
+    {
+      "price": 267008.9,
+      "quantity": "10",
+      "item": {
+        "sale1": 11,
+        "__v": 0,
+        "photo": "1672769611805_Pizza5.jpg",
+        "salePrice": 26700.89,
+        "isDeleted": false,
+        "sale": 11,
+        "price": 30001,
+        "description": "Nhắc đến Ý thì nổi tiếng nhất chắc chắn là kiểu Neapoli, đây là tên thành phố  pizza được sinh ra. Loại bánh này cũng chuẩn kiểu Ý, nghĩa là không nhiều nhân và phần nhân khá đơn giản, chỉ có sốt cà chua, lá basil tươi, dầu oliu và phô mai.\r\nVì loại bánh có lớp vỏ mỏng, nó không thể chứa nhiều nhân bên trên. Trên thực tế, bánh mỏng đến mức nó thường được ăn bằng nĩa và dao. Để làm được bánh pizza Neapoli \"thật\", bánh phải được nướng trong lò đốt củi từ 400 - 500 độ C, tương tự như cách truyền thống thì chỉ mất khoảng 70-90 giây để nấu chín hoàn toàn.\r\nRiêng với loại bánh này, yêu cầu tương đối cầu kì như:\r\nBánh phải đường kính không quá 35cm.\r\nĐế bánh không được dày hơn 1/8 inch (khoảng 3.1 millimeter) (phần rìa mép được phép cao hơn 1 chút).\r\nPhải được nướng trong lò gạch đốt bằng củi (brick wood-fired oven).\r\nBột phải được ủ trong ít nhất 6 tiếng.",
+        "categoryId": 8,
+        "urlRewriteName": "neapolitan-pizza",
+        "name": "Neapolitan pizza",
+        "id": 80,
+        "_id": "60799ee3c2c96719708b4762"
+      }
+    }
+  ],
+  "__v": 0
+}]

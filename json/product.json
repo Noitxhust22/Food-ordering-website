@@ -1,0 +1,331 @@
+[{
+  "_id": {
+    "$oid": "60799ee3c2c96719708b4762"
+  },
+  "id": 80,
+  "name": "Neapolitan pizza",
+  "urlRewriteName": "neapolitan-pizza",
+  "categoryId": 8,
+  "description": "Nhắc đến Ý thì nổi tiếng nhất chắc chắn là kiểu Neapoli, đây là tên thành phố  pizza được sinh ra. Loại bánh này cũng chuẩn kiểu Ý, nghĩa là không nhiều nhân và phần nhân khá đơn giản, chỉ có sốt cà chua, lá basil tươi, dầu oliu và phô mai.\r\nVì loại bánh có lớp vỏ mỏng, nó không thể chứa nhiều nhân bên trên. Trên thực tế, bánh mỏng đến mức nó thường được ăn bằng nĩa và dao. Để làm được bánh pizza Neapoli \"thật\", bánh phải được nướng trong lò đốt củi từ 400 - 500 độ C, tương tự như cách truyền thống thì chỉ mất khoảng 70-90 giây để nấu chín hoàn toàn.\r\nRiêng với loại bánh này, yêu cầu tương đối cầu kì như:\r\nBánh phải đường kính không quá 35cm.\r\nĐế bánh không được dày hơn 1/8 inch (khoảng 3.1 millimeter) (phần rìa mép được phép cao hơn 1 chút).\r\nPhải được nướng trong lò gạch đốt bằng củi (brick wood-fired oven).\r\nBột phải được ủ trong ít nhất 6 tiếng.",
+  "price": 30001,
+  "sale": 11,
+  "isDeleted": false,
+  "salePrice": 26700.89,
+  "photo": "1672769611805_Pizza5.jpg",
+  "__v": 0,
+  "sale1": 11
+},{
+  "_id": {
+    "$oid": "60799ef9c2c96719708b4763"
+  },
+  "id": 81,
+  "name": "Cong you bing",
+  "urlRewriteName": "cong-you-bing",
+  "categoryId": 8,
+  "description": "Cong You Bing là món ăn đường phố phổ biến ở Trung Quốc và Đài Loan. Loại bánh làm từ bột mì được nướng trong lò cùng với dầu, hành tỏi cùng mỡ lợn tạo thành chiếc bánh có vỏ giòn bên ngoài và nhân tơi xốp bên trong.\r\n\r\nBánh Cong You Bing dẹp và tròn được làm từ bột pha với hành lá tươi cắt nhuyễn và cán bằng tay. Phiên bản gốc của Cong You Bing từ Trung Quốc dày hơn và có phần bột nhão hơn so với phiên bản nhạt và mịn hơn của người dân Đài Loan. Đôi khi Cong You Bing còn được nhồi thêm thịt băm để tăng thêm hương vị cho món bánh.\r\n\r\nChiếc bánh vàng ươm nóng hổi sẽ khiến bạn khó lòng có thể chế ngự được cơn thèm. Và khi thưởng thức chắc chắn bạn sẽ yêu thích món ăn ngay khi vừa nếm qua. Món bánh Cong You Bing ngon nhất khi ăn nóng và thường được chấm với chút nước tương (xì dầu) có thêm tí ớt, cho hương vị thơm ngon, đậm đà.\r\n\r\n",
+  "price": 40000,
+  "sale": 10,
+  "isDeleted": false,
+  "salePrice": 36000,
+  "photo": "1672769788934_pizza4.jpg",
+  "__v": 0,
+  "sale1": 10
+},{
+  "_id": {
+    "$oid": "60799f37c2c96719708b4766"
+  },
+  "id": 84,
+  "name": "Okonomiyaki",
+  "urlRewriteName": "okonomiyaki",
+  "categoryId": 8,
+  "description": "Okonomiyaki, Nhật Bản\r\nOkonomiyaki thường được gọi là bánh xèo Nhật Bản. Loại bánh hấp dẫn này là sự kết hợp giữa nguyên liệu bản địa trong kiểu dáng của chiếc pizza cổ điển. Bột được nướng trực tiếp trên bếp, tùy thuộc vào từng vùng và sở thích của người ăn mà có thể cho thêm bất kỳ loại topping nào (như hành tây, thịt heo, bạch tuộc, mực, tôm, rau, phô mai…)\r\n\r\nPhần đế được làm từ những sợi mì đan xen làm từ bột, đường, men, khoai nghiền, bắp cải hoặc trứng. Sự khác biệt tạo nên nét hấp dẫn trong mỗi chiếc Pizza kiểu Nhật là sốt Okonomiyaki và những miếng vụn cá ngừ khô bên trên.",
+  "price": 60000,
+  "sale": 20,
+  "isDeleted": false,
+  "salePrice": 48000,
+  "photo": "1672770216253_pizza2.jpg",
+  "__v": 0,
+  "sale1": 20
+},{
+  "_id": {
+    "$oid": "6162da4ee8f08f31644b0a14"
+  },
+  "id": 110,
+  "name": "Pizza California",
+  "urlRewriteName": "pizza-california",
+  "categoryId": 8,
+  "description": "Pizza California hay còn gọi là loại bánh dành cho người sành ăn, được biết đến với các nguyên liệu đặc biệt. Loại bánh có vào cuối năm 1970 khi đầu bếp Ed LaDou tiến hành thử nghiệm công thức tại nhà hàng cổ điển của Ý, Prego. Ông đã làm ra một chiếc bánh Pizza với mù tạt, ricotta, pate và ớt đỏ, một cách tình cờ nó được phục vụ cho Wolfgang Puck. Quá bất ngờ với ý tưởng sáng tạo này, Puck đã mời ông làm đầu bếp tại nhà hàng của mình. Chính tại đây, LaDou đã đưa ra hơn 250 công thức làm bánh độc nhất và thậm chí viết nên thực đơn của chuỗi nhà hàng California Pizza Kitchen.",
+  "price": 30000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 30000,
+  "photo": "1673423308112_pizza10.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162daa8e8f08f31644b0a15"
+  },
+  "id": 111,
+  "name": "Pizza Greek",
+  "urlRewriteName": "pizza-greek",
+  "categoryId": 8,
+  "description": "Pizza Greek được sáng tạo ra bởi những người nhập cư Hy Lạp khi đến Mỹ. Loại bánh này đặc biệt phổ biến ở các bang New England, có lớp vỏ dày và dai được nướng trong chảo nông, có dầu, vì vậy đáy bánh gần như chiên giòn. Mặc dù phong cách này có lớp vỏ phồng và dai hơn so với các bánh vỏ mỏng, nhưng nó không dày như loại Chicago hoặc Sicilia.\r\nĐặc biệt đây là bánh có nước sốt không tập trung vào phô mai. Nước sốt thường là hỗn hợp cà chua phối hợp với lá oregano nồng. Hỗn hợp mozzarella và cheddar sẽ được đặt trên bề mặt bánh.",
+  "price": 40000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 40000,
+  "photo": "1673423381886_pizza11.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162db51e8f08f31644b0a16"
+  },
+  "id": 112,
+  "name": "Pizza Pastrmajlija",
+  "urlRewriteName": "pizza-pastrmajlija",
+  "categoryId": 8,
+  "description": "Thịt nướng với hạt tiêu tạo nên phần topping ngon tuyệt cho món bánh Pastrmajlija vốn được nhiều người Macedonia ưa chuộng. Ngoài ra bạn cũng có thể thêm trứng lên bánh để tăng thêm hương vị. Loại bánh có lớp đế khá dày này có hình dáng rất phong phú tùy thuộc vào đôi bàn tay và cách tạo hình của người thợ bánh.",
+  "price": 40000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 40000,
+  "photo": "1673423474903_pizza12.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162dee1e8f08f31644b0a17"
+  },
+  "id": 113,
+  "name": "Pizza Flammkuchen",
+  "urlRewriteName": "pizza-flammkuchen",
+  "categoryId": 8,
+  "description": "Flammkuchen là một cách biến tấu thú vị giữa pizza của Ý và Tarte Flambee của Pháp. Flammkuchen có lớp đế rất mỏng phủ đầy bên trên là hành tây, kem tươi, thịt xông khói, muối và tiêu. Đây là món ăn bình dân với giá cả hợp lý và đặc biệt thích hợp cho một ngày mưa lạnh.",
+  "price": 40000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 40000,
+  "photo": "1673423520633_pizza13.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162e3eee8f08f31644b0a1b"
+  },
+  "id": 116,
+  "name": "Burger gà phô mai sốt",
+  "urlRewriteName": "burger-ga-pho-mai-sot",
+  "categoryId": 9,
+  "description": "Hamburger",
+  "price": 50000,
+  "sale": 20,
+  "isDeleted": false,
+  "salePrice": 40000,
+  "photo": "1673423807227_ham1.jpg",
+  "__v": 0,
+  "sale1": 20
+},{
+  "_id": {
+    "$oid": "6162e445e8f08f31644b0a1c"
+  },
+  "id": 117,
+  "name": "Burger 2 Miếng Bò Khoai Tây Lát",
+  "urlRewriteName": "burger-2-mieng-bo-khoai-tay-lat",
+  "categoryId": 9,
+  "description": "Burger 2 Miếng Bò Khoai Tây Lát",
+  "price": 50000,
+  "sale": 10,
+  "isDeleted": false,
+  "salePrice": 45000,
+  "photo": "1673423900305_ham2.jpeg",
+  "__v": 0,
+  "sale1": 10
+},{
+  "_id": {
+    "$oid": "6162e492e8f08f31644b0a1d"
+  },
+  "id": 118,
+  "name": "BURGER BÒ KHOAI GIÒN TRÀN PHÔ MAI",
+  "urlRewriteName": "burger-bo-khoai-gion-tran-pho-mai",
+  "categoryId": 9,
+  "description": "BURGER BÒ KHOAI GIÒN TRÀN PHÔ MAI",
+  "price": 50000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 50000,
+  "photo": "1673423954562_ham3.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162e5c5e8f08f31644b0a1e"
+  },
+  "id": 119,
+  "name": "Burger gà giòn cay",
+  "urlRewriteName": "burger-ga-gion-cay",
+  "categoryId": 9,
+  "description": "Burger gà giòn cay",
+  "price": 45000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 45000,
+  "photo": "1673424040049_ham4.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162e7d7e8f08f31644b0a20"
+  },
+  "id": 120,
+  "name": " Baguette - Bánh mì Pháp",
+  "urlRewriteName": "-baguette---banh-mi-phap",
+  "categoryId": 10,
+  "description": "Một sự thú vị là Luật thực phẩm Pháp định nghĩa bánh mì là sản phẩm chỉ có bốn thành phần: nước, bột mì, men, và muối thường. Nếu thêm những thành phần khác vào công thức cơ bản thì phải bán dùng tên khác cho sản phẩm.\r\n\r\nTrong bữa sáng Pháp truyền thống, những miếng bánh mì được quét mứt và ngâm vào bát cà phê hay sô-cô-la nóng. Và bánh mì rất được ưa chuộng, nhiều cửa hàng bánh mì hoàn toàn có thể bán hết bánh ngay khi vừa mở cửa.\r\n\r\n ",
+  "price": 15000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 15000,
+  "photo": "1673424201615_Baguette.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "6162e98ee8f08f31644b0a21"
+  },
+  "id": 121,
+  "name": "Bánh mì nướng Kaya",
+  "urlRewriteName": "banh-mi-nuong-kaya",
+  "categoryId": 10,
+  "description": "Đây là món là một món ăn nhẹ nổi tiếng ở Singapore và Malaysia. Bánh mì nướng Kaya được làm bằng cách thái lát bánh mì bình thường, sau đó nướng trong lò hoặc nướng than. Bơ và kaya (một loại mứt truyền thống được làm từ dừa và trứng) sẽ được phết lên bánh mì nướng rồi kẹp chúng lại với nhau.",
+  "price": 15000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 15000,
+  "photo": "1673424252247_banh-mi-nuong-Kaya.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "63b4732804747863a4eb7a8e"
+  },
+  "id": 123,
+  "name": "Bánh mì Mitrailette",
+  "urlRewriteName": "banh-mi-mitrailette",
+  "categoryId": 10,
+  "description": "Phát âm tiếng Pháp của bánh mì Mitrailette là: [mitʁajɛt] (nghĩa của chúng hoàn toàn không có chút liên quan nào đến món ăn là: \"súng tiểu liên\"). Đây là một loại bánh sandwich Bỉ của, chúng có sẵn và có thể dễ dàng tìm thấy, mua được trong Kiot bán hàng ven đường, xe tải phục vụ thức ăn nhanh hoặc quán cà phê . Bánh mì Mitrailette rất phổ biến tại Bỉ và một trong những món ăn ưa thích của sinh viên.",
+  "price": 15000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 15000,
+  "photo": "1673424306127_banh-mi-Mitraillette.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "63b4736304747863a4eb7a8f"
+  },
+  "id": 124,
+  "name": "Trà sữa khoai môn Mì Ý Linguine",
+  "urlRewriteName": "tra-sua-khoai-mon-mi-y-linguine",
+  "categoryId": 13,
+  "description": "Linguine là tên của một loại mì sợi pasta tương tự như fettuccine và trenette nhưng có phần hình elip thay vì phẳng. Nó có chiều rộng khoảng 4 mm, rộng hơn mì spaghetti nhưng không rộng bằng fettuccine. ",
+  "price": 30000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 30000,
+  "photo": "1673424423764_linguine-with-sauce_4ce4d1faf9ba410bb6878e151bfe5639_grande.jpg",
+  "__v": 0,
+  "sale1": 0
+},{
+  "_id": {
+    "$oid": "63be6e53bba9450f586d8ac4"
+  },
+  "id": 125,
+  "name": "Mì Ý Spaghetti",
+  "urlRewriteName": "mi-y-spaghetti",
+  "categoryId": 13,
+  "description": "Spaghetti là món mì cổ điển của Ý được biết đến với hình trụ dài, mỏng. Spaghetti điển hình được làm từ nước, lúa mì xay và bột mì, nhưng mì ý Spaghetti  đích thực được làm bằng bột lúa mì cứng durum.",
+  "price": 30000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 30000,
+  "photo": "1673424467269_sot-ca-chua-thit-bo-bam-bolognese-agnesi-y-400g_97e2a8e75fef4217be5d2e9869ad1ce7_grande.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be6e7fbba9450f586d8ac5"
+  },
+  "id": 126,
+  "name": "Mì Ý Spaghettini Agnesi",
+  "urlRewriteName": "mi-y-spaghettini-agnesi",
+  "categoryId": 13,
+  "description": "Món mì này thường được sử dụng trong các món hải sản (chẳng hạn như cá ngừ hoặc cá hồi) hoặc trong nước sốt dầu, cũng giống như bất kỳ loại mì Ý nào, spaghettini có thể được sử dụng trong bất kỳ món ăn nào và với bất kỳ loại nước sốt nào.",
+  "price": 30000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 30000,
+  "photo": "1673424511961_13051598_251960875156249_4942300980715415118_n_2c9e791aff1b45ca8ec20ff72b037ccd_grande.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be6f86bba9450f586d8ac6"
+  },
+  "id": 127,
+  "name": "Cánh gà chiên bơ",
+  "urlRewriteName": "canh-ga-chien-bo",
+  "categoryId": 14,
+  "description": "Nguyên liệu làm cánh gà chiên bơ\r\n450gr cánh gà\r\n100ml sữa tươi\r\n3 muỗng canh bơ\r\n3 tép tỏi\r\n6 muỗng canh bột chiên giòn\r\nGia vị: Tiêu, hạt nêm, đường, bột tỏi, bột ớt",
+  "price": 30000,
+  "sale": 20,
+  "isDeleted": false,
+  "salePrice": 24000,
+  "photo": "1673424774525_cánh gà chiên bơ.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be701abba9450f586d8ac7"
+  },
+  "id": 128,
+  "name": "Gà chiên giòn sốt ngũ vị",
+  "urlRewriteName": "ga-chien-gion-sot-ngu-vi",
+  "categoryId": 14,
+  "description": "Nguyên liệu làm cổ gà chiên giòn sốt ngũ vị\r\n5 cái cổ gà\r\n2 muỗng canh bột mì\r\n½ muỗng cà phê ớt băm\r\n¼ muỗng cà phê bột thì là\r\n1 muỗng canh rượu vang\r\n1 muỗng cà phê bột ngũ vị hương\r\n2 tép tỏi\r\n2 muỗng canh bột bắp\r\nGia vị: đường, nước tương, muối, dầu ăn.",
+  "price": 30000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 30000,
+  "photo": "1673424922077_gà chiên sốt.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be71b0bba9450f586d8ac8"
+  },
+  "id": 129,
+  "name": "Coca",
+  "urlRewriteName": "coca",
+  "categoryId": 15,
+  "description": "Combo nước uống",
+  "price": 10000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 10000,
+  "photo": "1673425328008_coca.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be71d0bba9450f586d8ac9"
+  },
+  "id": 130,
+  "name": "Pepsi",
+  "urlRewriteName": "pepsi",
+  "categoryId": 15,
+  "description": "Combo đồ uống",
+  "price": 10000,
+  "sale": 0,
+  "isDeleted": false,
+  "salePrice": 10000,
+  "photo": "1673425360090_pepsi.jpg",
+  "__v": 0
+}]
